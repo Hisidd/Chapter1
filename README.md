@@ -18,4 +18,4 @@ CSS
 Bootstrap
 <hr>
 <h5>
-  <a href="https://https://hisidd.github.io/Chapter1/">click here to visit my website</a>
+  <a href="https://hisidd.github.io/Chapter1/">click here to visit my website</a>
